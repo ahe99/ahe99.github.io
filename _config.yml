@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: River's blog
+subtitle: 前端雜記
+description: 前端工程師，想到什麼就寫什麼。
 keywords:
-author: John Doe
+author: River
 language: zh-TW
 timezone: ''
 

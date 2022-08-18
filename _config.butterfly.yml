@@ -35,7 +35,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
+  fab fa-github: https://github.com/ahe99 || Github
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
 
 # search (搜索)
@@ -76,11 +76,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: /img/favicon.ico
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://avatars.githubusercontent.com/u/50335168?v=4
   effect: false
 
 # Disable all banner image
@@ -406,7 +406,7 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2022
   custom_text:
   copyright: true # Copyright of theme and framework
 
@@ -516,11 +516,11 @@ enter_transitions: true
 # canvas_ribbon (靜止彩帶背景)
 # See: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: false
+  enable: true
   size: 150
   alpha: 0.6
   zIndex: -1
-  click_to_change: false
+  click_to_change: true
   mobile: false
 
 # Fluttering Ribbon (動態彩帶)
@@ -636,10 +636,10 @@ aside:
     enable: true
     description:
     button:
-      enable: true
+      enable: false
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/ahe99
   card_announcement:
     enable: true
     content: This is my Blog
@@ -676,7 +676,7 @@ aside:
 busuanzi:
   site_uv: true
   site_pv: true
-  page_pv: true
+  page_pv: false
 
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
@@ -718,10 +718,9 @@ darkmode:
   # Toggle Button to switch dark/light mode
   button: true
   # Switch dark/light mode automatically (自動切換 dark mode和 light mode)
-  # autoChangeMode: 1  Following System Settings, if the system doesn't support dark mode, it will switch dark mode between 6 pm to 6 am
+  autoChangeMode: 1  Following System Settings, if the system doesn't support dark mode, it will switch dark mode between 6 pm to 6 am
   # autoChangeMode: 2  Switch dark mode between 6 pm to 6 am
   # autoChangeMode: false
-  autoChangeMode: false
 
 # Don't modify the following settings unless you know how they work (非必要請不要修改 )
 # Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
