@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>你好世界</title>
+      <link href="/2022/08/28/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/"/>
+      <url>/2022/08/28/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/</url>
+      
+        <content type="html"><![CDATA[<hr><p>做為第一篇文，其實心情還是蠻複雜和激動的。</p><p>畢竟從很久之前就有寫Blog的打算，</p><p>但作為一個WEB的萌新，總會想著要透過Side project去挑戰自己，</p><p>每次在腦中建構Blog專案：光是前端就有…</p><ul><li>前台展示文章</li><li>後台管理&#x2F;統計</li></ul><p>用想的就感到疲憊不堪🙀</p><p>確實，這種本末倒置的事情也不是沒有發生過……</p><p>前陣子就有在做一個類似記憶卡的App，為了幫助自己通過學校的英文畢業門檻<a href="https://github.com/ahe99/flashcard">「Flashcard」</a></p><img src="https://github.com/ahe99/flashcard/raw/develop/assets/icon.png" alt="Flashcard" width="250"/><p>如今早已畢業三個月，專案進度卻仍然停滯中🥲</p><p>話說回來，在實習轉正、工作等當兵的這段時間之中，</p><p>逐漸覺得我應該把實作上的心得 <del>（aka踩過的坑）</del> 記錄下來，讓自己印象能更深刻點。</p><p>於是最後選擇了：</p><ul><li><a href="https://hexo.io/zh-tw/">Hexo</a> with theme <a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a> </li><li><a href="https://github.com/features/actions">Github actions</a> </li><li><a href="https://analytics.google.com/">Google analytics</a></li></ul><p>這樣的一個專案配置，跟最初的構想比起來真的是輕鬆多了🤣</p><p>才終於有專心寫著第一篇文的今天，</p><p>也希望後續的文章能夠幫助到有需要的人。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 閒聊 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Blog </tag>
+            
+            <tag> 閒聊 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
