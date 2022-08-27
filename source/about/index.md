@@ -13,3 +13,10 @@ aside:
 aplayer:
 highlight_shrink:
 ---
+一隻新鮮的前端人
+
+開發上主要使用React生態系
+
+紀錄一下踩過的坑應該會蠻有趣的XD
+
+[我的Github](https://github.com/ahe99)
