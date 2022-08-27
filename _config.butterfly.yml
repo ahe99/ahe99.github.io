@@ -184,9 +184,9 @@ toc:
   style_simple: false # for post
 
 post_copyright:
-  enable: false
-  decode: false
-  author_href:
+  enable: true
+  decode: true
+  author_href: River
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
