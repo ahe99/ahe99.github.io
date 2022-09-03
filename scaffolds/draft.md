@@ -8,7 +8,7 @@ keywords:
 description:
 top_img:
 comments: false
-cover: "https://github.com/ahe99/ahe99.github.io/blob/main/source/img/cover/{{ title }}.jpg" #or false
+cover: /img/posts/使用Hexo-Github-Actions輕鬆實現自動化部署的Blog/cover.png #or false
 toc:
 toc_number:
 toc_style_simple:
