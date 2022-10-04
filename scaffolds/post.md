@@ -8,7 +8,7 @@ keywords:
 description:
 top_img:
 comments: false
-cover: /img/posts/使用Hexo-Github-Actions輕鬆實現自動化部署的Blog/cover.png #or false
+cover: /img/posts/{{ title }}/cover.png #or false
 toc:
 toc_number:
 toc_style_simple:

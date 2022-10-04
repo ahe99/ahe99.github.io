@@ -1,14 +1,14 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: 為什麼你需要custom hooks? 淺談React hooks的封裝使用
+comments: false
+cover: /img/posts/為什麼你需要custom-hooks-淺談React-hooks的封裝使用/cover.png
+date: 2022-10-04 20:47:04
 updated:
 tags:
 categories:
 keywords:
 description:
 top_img:
-comments: false
-cover: /img/posts/{{ title }}/cover.png #or false
 toc:
 toc_number:
 toc_style_simple:
