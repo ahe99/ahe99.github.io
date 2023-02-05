@@ -12,7 +12,7 @@ tags:
   - Markdown
   - CI/CD
 categories:
-  - 分享
+  - 技術
 keywords:
 description:
 top_img:
@@ -55,7 +55,7 @@ aside:
 
 --- -->
 
-## 事前準備
+## 事前須知
 
 - 安裝 [Node.js、npm]
 - 安裝 [Git]
