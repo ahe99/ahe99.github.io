@@ -837,7 +837,8 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
+    - <style>.imgHover,.article-sort-item-img:first-child,#recent-posts>.recent-post-item.post_cover.post-bg,#aside-content.aside-list>.aside-list-item.thumbnail:first-child{object-fit:contain!important;}img{object-fit:contain!important;}</style>
+    # - <link rel="stylesheet" href="/self.css">
   bottom:
     # - <script src="xxxx"></script>
 
